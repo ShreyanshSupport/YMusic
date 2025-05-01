@@ -26,7 +26,7 @@ cat <<'EOF'
 ⠀⠀⠀⠀⠀⠈⠻⢿⣾⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⠀⠀⢀⣀⣀⣀⣿⣿⣿⠟⠉⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⢹⣿⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠛⠀⠀⠘⠛⠛⠛⣿⡟⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣶⣿⠇⠀⠀⠀⠀⠀⠀⠀⠀          
-Copyright (C) 2020-2023 by MoonTg-project@Github, < https://github.com/TechyShreyansh >.
+Copyright (C) 2020-2023 by YMusic-UserBott@Github, < https://github.com/TechyShreyansh >.
 This file is part of < https://github.com/TechyShreyansh/YMusic-Bot > project,
 and is released under the "GNU v3.0 License Agreement".
 Please see < https://github.com/TechyShreyansh/YMusic-Bot/blob/main/LICENSE >
