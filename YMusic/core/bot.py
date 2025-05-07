@@ -1,21 +1,26 @@
 from pyrogram import Client
 from pytgcalls import PyTgCalls
 
+import config
 import platform
-from utils import config
-from utils.misc import gitrepo, userbot_version
+from ..logging import LOGGER
 
 api_id: int = config.API_ID
 api_hash: str = config.API_HASH
 session_string: str = config.SESSION_STRING
+
+# Hardcoded values
+userbot_version = "1.0.0"
+device_model = "kittuBeats-Userbot @Tech_Shreuansh29"
+system_version = f"{platform.system()} {platform.release()} {platform.machine()}"
 
 YMusicBot = Client(
     name="YMusic",
     api_id=api_id,
     api_hash=api_hash,
     session_string=session_string,
-    device_model=f"YMusic-Userbot @ {gitrepo.head.commit.hexsha[:7]}",
-    system_version=platform.version() + " " + platform.machine(),
+    device_model=device_model,
+    system_version=system_version,
     app_version=userbot_version,
     workdir="./",
     sleep_threshold=10,
