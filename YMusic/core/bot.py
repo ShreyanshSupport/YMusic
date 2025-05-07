@@ -10,7 +10,7 @@ api_hash: str = config.API_HASH
 session_string: str = config.SESSION_STRING
 
 # Hardcoded values
-userbot_version = "1.0.0"
+userbot_version = "2.5.0"
 device_model = "kittuBeats-Userbot @Tech_Shreuansh29"
 system_version = f"{platform.system()} {platform.release()} {platform.machine()}"
 
